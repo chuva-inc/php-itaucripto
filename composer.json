@@ -1,0 +1,13 @@
+{
+    "name": "chuva-inc/php-itaucripto",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Couto",
+            "email": "gabrielrcouto@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
