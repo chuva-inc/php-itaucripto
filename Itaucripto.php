@@ -1,4 +1,7 @@
 <?php
+
+namespace Itaucripto;
+
 /**
  * Itaucripto Class
  *
